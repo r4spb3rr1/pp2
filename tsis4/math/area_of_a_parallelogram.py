@@ -1,0 +1,1 @@
+print("Expected Output:", int(input("Length of the base: ")) * int(input("Height of parallelogram: ")))
